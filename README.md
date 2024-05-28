@@ -2,6 +2,9 @@
 
 **UniqueNumberGenerator**, C# kullanarak belirli bir aralıktaki **benzersiz rastgele sayıları** hızlı ve kolay bir şekilde oluşturmanıza olanak tanıyan bir yardımcı programdır. 
 
+![image](https://github.com/fastuptime/Unique_Number_Generator_C_Sharp/assets/63351166/adb6bcb7-12e4-43f9-8a65-a676c69cd852)
+
+
 ### 🎯 Ne Yapar?
 
 * **Tekrarlardan Kurtulun:** Her seferinde **yeni ve benzersiz** sayılar üretir. 🔄
